@@ -8,4 +8,4 @@ My research focuses on **diffusion and generative models**, and how they can be 
 ---
 
 ## 🔗 Contact  
-📧 [arsln.fuat@gmail.com](mailto:arsln.fuat@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fuat-arslan-5899611a2/) · [Scholar](https://scholar.google.com/citations?user=49AmWIIAAAAJ&hl=en) · [GitHub](https://github.com/fuat-arslan)  
+📧 [arsln.fuat@gmail.com](mailto:arsln.fuat@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fuat-arslan-5899611a2/) · [Scholar](https://scholar.google.com/citations?user=49AmWIIAAAAJ&hl=en)
