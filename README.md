@@ -3,8 +3,6 @@
 I’m fascinated by how machines can **think in images**.  
 My research focuses on **diffusion and generative models**, and how they can be applied to **MRI reconstruction and medical imaging** — bridging theory with impact in healthcare.  
 
-📍 Currently pursuing my **M.S. in Electrical & Electronics Engineering at Bilkent University** (Advisor: Prof. Tolga Çukur).  
-
 ---
 
 ## 🔗 Contact  
